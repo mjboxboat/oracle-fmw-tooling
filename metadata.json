@@ -191,7 +191,7 @@
         "test-dir": "wccontent",
         "install_type": "WebCenter Content",
         "patches": [
-        	"p22585448_122100_Generic.zip"
+        	"p29295055_122130_Generic.zip"
         ]
     },
     "wccadf": {
@@ -311,8 +311,7 @@
         "test-dir": "wlserver",
         "install_type": "Fusion Middleware Infrastructure",
         "patches": [
-        	"p22331568_122100_Generic.zip",
-        	"p22541322_122100_Generic.zip"
+        	"p29016089_122130_Generic.zip"
         ],
         "template-name": "Basic WebLogic Server Domain",
         "version": "12.2.1",
